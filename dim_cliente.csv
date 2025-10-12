@@ -1,0 +1,101 @@
+id_cliente,nombre,edad,ciudad,Genero,tipo_cliente
+1,Peg Abbet,29,Monterrey,M,VIP
+2,Darlene Slatter,51,CDMX,F,VIP
+3,Tedra Libri,42,CDMX,M,Regular
+,Amara Shervington,62,Guadalajara,M,Regular
+5,Cecilio Adamov,30,Monterrey,M,VIP
+6,Nickolai Follis,59,Monterrey,M,Corporativo
+7,Sidney Campanelli,66,Querétaro,M,Regular
+8,Robenia MacLise,40,Guadalajara,M,Corporativo
+9,Romola Ewenson,,Querétaro,M,VIP
+10,Susy Enderlein,69,Monterrey,F,Corporativo
+11,Ernie Syversen,48,Monterrey,M,Regular
+12,Dex Celli,57,Monterrey,,Regular
+13,Fitz Wyllt,36,CDMX,F,Regular
+14,Wiley McGeagh,62,CDMX,M,Corporativo
+15,Horst Whapham,,Monterrey,M,Corporativo
+16,Rafaela Aupol,38,Querétaro,M,Regular
+17,Darill Kneath,43,Monterrey,M,Regular
+18,Rakel Cathie,66,CDMX,F,Corporativo
+19,,61,,M,Corporativo
+20,Brigida Guymer,56,Guadalajara,F,Corporativo
+21,Bald Willavize,24,Monterrey,F,Corporativo
+22,Richart Lindenstrauss,54,Puebla,F,Corporativo
+23,Daisy Smidmoor,52,Puebla,F,Regular
+24,Ingelbert Stamps,20,Guadalajara,M,Regular
+25,Timotheus Entwisle,69,Querétaro,F,Regular
+26,Massimiliano Nardi,53,Guadalajara,F,Corporativo
+27,Mervin McTear,39,Puebla,M,Regular
+28,Ermin Mar,58,CDMX,,VIP
+29,Brett Rowlings,63,CDMX,F,Regular
+30,Sven McKintosh,26,Querétaro,M,Corporativo
+31,Simmonds Echallie,,Monterrey,M,VIP
+32,Micky Donnersberg,43,Guadalajara,M,Corporativo
+33,Cletis Napthine,72,Querétaro,M,Corporativo
+34,Krystalle Sheen,65,CDMX,M,Corporativo
+,Sol Cheale,49,Guadalajara,M,
+36,Aura Le Frank,23,Querétaro,F,VIP
+37,Aimil Alliberton,54,Puebla,F,VIP
+38,Agneta Audritt,68,CDMX,F,
+39,Mindy D'Enrico,,Monterrey,F,VIP
+40,Millisent Guitonneau,47,Querétaro,F,Corporativo
+41,Waylen Cribbins,65,Querétaro,F,VIP
+42,Emera Burner,52,,F,Regular
+43,,59,Puebla,F,VIP
+44,Genevieve Laydel,71,Monterrey,M,VIP
+45,Benjamin Kinze,75,Querétaro,F,Corporativo
+46,Marrilee Gubbins,30,Puebla,M,VIP
+47,Rafael Le Moucheux,63,Puebla,M,Corporativo
+48,Liv Drust,57,Guadalajara,,Regular
+49,,51,,M,Regular
+50,,35,Monterrey,F,Corporativo
+51,Elvin Danilovic,30,Puebla,M,Corporativo
+52,Justen Collabine,25,Monterrey,F,VIP
+53,,45,Guadalajara,F,VIP
+54,Kevon Redfield,60,Querétaro,M,Regular
+,Lily Kewley,66,Guadalajara,F,Regular
+56,Keven Rubinowitch,73,Puebla,M,Corporativo
+57,Titos Greest,20,CDMX,F,VIP
+58,Elden Footer,19,Puebla,M,Corporativo
+59,Shelly Kyme,,Monterrey,F,Regular
+60,Jerrilyn Alderton,,CDMX,F,Regular
+,Wilona Coda,18,,M,Regular
+62,Pippo Beller,53,CDMX,F,Regular
+63,Mikkel Acland,53,Querétaro,F,VIP
+64,Marget Wayper,71,Monterrey,F,Corporativo
+65,Corty Kupis,61,Guadalajara,F,VIP
+66,Kamillah Rapley,55,Querétaro,M,VIP
+67,Geraldine Gamell,,Querétaro,M,VIP
+68,Farrel Gail,56,CDMX,F,
+69,Pascal Brownsmith,19,CDMX,M,Corporativo
+70,Bartlett Yegoshin,52,Monterrey,M,
+71,Bill Farley,48,Monterrey,F,Corporativo
+72,Gene Kleinerman,69,Monterrey,M,VIP
+73,Tiffi Snare,43,Guadalajara,M,Regular
+74,Malena Eggleston,39,Monterrey,M,Corporativo
+,Ring Pixton,54,Guadalajara,M,VIP
+76,Francisco Perin,67,Guadalajara,M,
+77,Leoline Boldero,72,Monterrey,F,Corporativo
+78,Ilysa Oughtright,42,CDMX,,
+79,Clerissa Keal,66,Guadalajara,M,Regular
+80,Georgia Renals,58,Puebla,F,VIP
+81,Hervey Corhard,60,Puebla,M,VIP
+82,Libby Vardie,42,CDMX,F,Regular
+83,Clayton Napoleone,68,Querétaro,F,Corporativo
+84,Vyky Ganiclef,55,Guadalajara,M,VIP
+85,Raynard Goodread,69,Guadalajara,M,Regular
+86,,59,Guadalajara,,VIP
+87,Allyce Gristwood,72,,F,VIP
+88,Broderick Hindes,50,Guadalajara,M,
+89,Lorena Dugan,53,Puebla,M,VIP
+90,Angeline Lanning,72,CDMX,M,
+91,Lesly Eastope,33,Puebla,F,VIP
+92,Ginger Aberdalgy,68,CDMX,F,Regular
+93,Coreen Daubeny,40,Monterrey,M,Regular
+94,Caroline Vigus,69,Querétaro,,VIP
+95,Georgeanna Lowy,22,CDMX,M,Regular
+96,Augustine Swyer-Sexey,44,Querétaro,M,VIP
+97,Ly Dury,34,Puebla,F,Corporativo
+98,Kathi Thorp,31,Guadalajara,M,Corporativo
+99,Clarette Giraudel,21,Monterrey,M,Regular
+100,Virgina Glascott,71,CDMX,F,Regular

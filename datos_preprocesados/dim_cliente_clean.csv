@@ -1,0 +1,90 @@
+﻿id_cliente,nombre,edad,ciudad,genero,tipo_cliente
+1.0,Peg Abbet,29.0,Monterrey,M,VIP
+2.0,Darlene Slatter,51.0,Cdmx,F,VIP
+3.0,Tedra Libri,42.0,Cdmx,M,Regular
+,Amara Shervington,62.0,Guadalajara,M,Regular
+5.0,Cecilio Adamov,30.0,Monterrey,M,VIP
+6.0,Nickolai Follis,59.0,Monterrey,M,Corporativo
+7.0,Sidney Campanelli,66.0,Querétaro,M,Regular
+8.0,Robenia Maclise,40.0,Guadalajara,M,Corporativo
+10.0,Susy Enderlein,69.0,Monterrey,F,Corporativo
+11.0,Ernie Syversen,48.0,Monterrey,M,Regular
+12.0,Dex Celli,57.0,Monterrey,No especificado,Regular
+13.0,Fitz Wyllt,36.0,Cdmx,F,Regular
+14.0,Wiley Mcgeagh,62.0,Cdmx,M,Corporativo
+16.0,Rafaela Aupol,38.0,Querétaro,M,Regular
+17.0,Darill Kneath,43.0,Monterrey,M,Regular
+18.0,Rakel Cathie,66.0,Cdmx,F,Corporativo
+19.0,,61.0,No Especificado,M,Corporativo
+20.0,Brigida Guymer,56.0,Guadalajara,F,Corporativo
+21.0,Bald Willavize,24.0,Monterrey,F,Corporativo
+22.0,Richart Lindenstrauss,54.0,Puebla,F,Corporativo
+23.0,Daisy Smidmoor,52.0,Puebla,F,Regular
+24.0,Ingelbert Stamps,20.0,Guadalajara,M,Regular
+25.0,Timotheus Entwisle,69.0,Querétaro,F,Regular
+26.0,Massimiliano Nardi,53.0,Guadalajara,F,Corporativo
+27.0,Mervin Mctear,39.0,Puebla,M,Regular
+28.0,Ermin Mar,58.0,Cdmx,No especificado,VIP
+29.0,Brett Rowlings,63.0,Cdmx,F,Regular
+30.0,Sven Mckintosh,26.0,Querétaro,M,Corporativo
+32.0,Micky Donnersberg,43.0,Guadalajara,M,Corporativo
+33.0,Cletis Napthine,72.0,Querétaro,M,Corporativo
+34.0,Krystalle Sheen,65.0,Cdmx,M,Corporativo
+36.0,Aura Le Frank,23.0,Querétaro,F,VIP
+37.0,Aimil Alliberton,54.0,Puebla,F,VIP
+38.0,Agneta Audritt,68.0,Cdmx,F,
+40.0,Millisent Guitonneau,47.0,Querétaro,F,Corporativo
+41.0,Waylen Cribbins,65.0,Querétaro,F,VIP
+42.0,Emera Burner,52.0,No Especificado,F,Regular
+43.0,,59.0,Puebla,F,VIP
+44.0,Genevieve Laydel,71.0,Monterrey,M,VIP
+45.0,Benjamin Kinze,75.0,Querétaro,F,Corporativo
+46.0,Marrilee Gubbins,30.0,Puebla,M,VIP
+47.0,Rafael Le Moucheux,63.0,Puebla,M,Corporativo
+48.0,Liv Drust,57.0,Guadalajara,No especificado,Regular
+49.0,,51.0,No Especificado,M,Regular
+50.0,,35.0,Monterrey,F,Corporativo
+51.0,Elvin Danilovic,30.0,Puebla,M,Corporativo
+52.0,Justen Collabine,25.0,Monterrey,F,VIP
+53.0,,45.0,Guadalajara,F,VIP
+54.0,Kevon Redfield,60.0,Querétaro,M,Regular
+56.0,Keven Rubinowitch,73.0,Puebla,M,Corporativo
+57.0,Titos Greest,20.0,Cdmx,F,VIP
+58.0,Elden Footer,19.0,Puebla,M,Corporativo
+62.0,Pippo Beller,53.0,Cdmx,F,Regular
+63.0,Mikkel Acland,53.0,Querétaro,F,VIP
+64.0,Marget Wayper,71.0,Monterrey,F,Corporativo
+65.0,Corty Kupis,61.0,Guadalajara,F,VIP
+66.0,Kamillah Rapley,55.0,Querétaro,M,VIP
+68.0,Farrel Gail,56.0,Cdmx,F,
+69.0,Pascal Brownsmith,19.0,Cdmx,M,Corporativo
+70.0,Bartlett Yegoshin,52.0,Monterrey,M,
+71.0,Bill Farley,48.0,Monterrey,F,Corporativo
+72.0,Gene Kleinerman,69.0,Monterrey,M,VIP
+73.0,Tiffi Snare,43.0,Guadalajara,M,Regular
+74.0,Malena Eggleston,39.0,Monterrey,M,Corporativo
+76.0,Francisco Perin,67.0,Guadalajara,M,
+77.0,Leoline Boldero,72.0,Monterrey,F,Corporativo
+78.0,Ilysa Oughtright,42.0,Cdmx,No especificado,
+79.0,Clerissa Keal,66.0,Guadalajara,M,Regular
+80.0,Georgia Renals,58.0,Puebla,F,VIP
+81.0,Hervey Corhard,60.0,Puebla,M,VIP
+82.0,Libby Vardie,42.0,Cdmx,F,Regular
+83.0,Clayton Napoleone,68.0,Querétaro,F,Corporativo
+84.0,Vyky Ganiclef,55.0,Guadalajara,M,VIP
+85.0,Raynard Goodread,69.0,Guadalajara,M,Regular
+86.0,,59.0,Guadalajara,No especificado,VIP
+87.0,Allyce Gristwood,72.0,No Especificado,F,VIP
+88.0,Broderick Hindes,50.0,Guadalajara,M,
+89.0,Lorena Dugan,53.0,Puebla,M,VIP
+90.0,Angeline Lanning,72.0,Cdmx,M,
+91.0,Lesly Eastope,33.0,Puebla,F,VIP
+92.0,Ginger Aberdalgy,68.0,Cdmx,F,Regular
+93.0,Coreen Daubeny,40.0,Monterrey,M,Regular
+94.0,Caroline Vigus,69.0,Querétaro,No especificado,VIP
+95.0,Georgeanna Lowy,22.0,Cdmx,M,Regular
+96.0,Augustine Swyer-Sexey,44.0,Querétaro,M,VIP
+97.0,Ly Dury,34.0,Puebla,F,Corporativo
+98.0,Kathi Thorp,31.0,Guadalajara,M,Corporativo
+99.0,Clarette Giraudel,21.0,Monterrey,M,Regular
+100.0,Virgina Glascott,71.0,Cdmx,F,Regular

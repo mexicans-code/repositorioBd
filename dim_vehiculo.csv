@@ -1,0 +1,21 @@
+id_vehiculo,tipo_vehiculo,marca,modelo,ano_fabricacion,costo_diario
+1,,Mazda,80,2015,$896.27
+2,Auto,,Camaro,2022,$1327.06
+3,Moto,Nissan,LR3,2020,$810.36
+4,Auto,Mazda,8 Series,2018,$1674.02
+5,Camioneta,Chevrolet,Century,2016,$2306.53
+6,Remolque,Mazda,Tribute,2021,$1813.12
+7,SUV,Toyota,Camaro,2017,$1692.12
+8,Remolque,Mazda,E-Class,2018,$1408.27
+,SUV,Honda,Suburban 1500,2021,$1181.56
+10,Auto,Nissan,Ram 1500,2015,$2354.11
+11,Remolque,Ford,,2023,$429.40
+12,Moto,Mazda,Grand Cherokee,2016,$1349.34
+13,Auto,Mazda,MDX,2023,$1584.22
+14,Camioneta,Chevrolet,,2015,$1274.97
+15,SUV,Ford,S8,2024,$2389.01
+16,SUV,Ford,Probe,2024,$1121.10
+17,Camioneta,Mazda,Paseo,2022,$2034.25
+,Moto,Honda,Firefly,2021,$1677.92
+19,Auto,Ford,Suburban,2019,$1947.75
+20,Camioneta,Chevrolet,Explorer,2022,$355.36
